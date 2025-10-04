@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "I Write. I Translate. I Transcribe. I Deliver.",
+    "subtitle": "Helping individuals, companies, and researchers with professional research papers, clear reports, accurate translations, and organized transcriptions – all with high quality and on time.",
+    "cta1": "View My Work",
+    "cta2": "Request Your Service"
+  },
+  "about": {
+    "title": "About Me",
+    "content": "I'm Ahmed Goda, a research and report writer, Arabic-English translator, and expert in Microsoft Word formatting. My passion is transforming complex ideas into organized, easy-to-read content, whether it's an academic paper, business report, or carefully translated content. I believe small details make the biggest difference, which is why I'm committed to accuracy, meeting deadlines, and formatting that reflects professionalism.",
+    "skills": {
+      "research": "Academic Research Writing",
+      "reports": "Report Writing & Formatting",
+      "translation": "Translation (Arabic ↔ English)",
+      "transcription": "Transcription (PDF, Audio → Word)",
+      "tools": "Microsoft Word & Docs"
+    }
+  },
+  "services": {
+    "title": "Services I Offer",
+    "items": {
+      "research": {
+        "title": "Research & Report Writing",
+        "description": "Crafting and organizing academic or business content in clear, well-formatted language."
+      },
+      "translation": {
+        "title": "Arabic ↔ English Translation",
+        "description": "Accurate translation with attention to terminology and context."
+      },
+      "transcription": {
+        "title": "Transcription & Conversion",
+        "description": "Converting PDF files or audio recordings to organized Word documents ready for print or publication."
+      },
+      "cv": {
+        "title": "CV Formatting",
+        "description": "Creating professional CVs that highlight strengths and attract employers."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Sample projects that reflect my style in writing, translation, and transcription. Each project demonstrates my attention to accuracy, organization, and quality.",
+    "projects": {
+      "research": "Academic Research: Social Variables in Gulf Society",
+      "translation": "Economic Report Translation (Arabic ↔ English)",
+      "transcription": "PDF Transcription to Organized Word",
+      "cv": "Bilingual Resume"
+    }
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "subtitle": "Whether you need organized research, accurate translation, or a comprehensive report – reach out and let's get started.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "quote": "\"Words are built with details, and details are built with care\""
+  }
+}
